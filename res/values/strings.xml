@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SendMessage</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="NotificationTitle">Notification Hub Demo</string>
+    <string name="NotificationText">Hello</string>
+    <string name="textviewMessage">Number where  app will be installed 2142138120\n Number where you want send and receive  
+        2148422665\n first send message from 2148422665"</string>
+</resources>
