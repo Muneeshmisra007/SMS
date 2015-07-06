@@ -8,6 +8,7 @@ public class Contact {
 	String _type;
 	int Notification_id;
 	
+	
 	public Contact(){
 	}
 	
